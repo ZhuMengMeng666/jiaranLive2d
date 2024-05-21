@@ -1,0 +1,2 @@
+# jiaranLive2d
+这是个人搭建的关于live2d插件应用嘉然moc3模型的公共项目
